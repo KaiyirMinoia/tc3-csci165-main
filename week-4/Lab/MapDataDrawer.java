@@ -1,11 +1,12 @@
+// KAIYIR MINOIA -- 02/18/20-- CSCI165 -- LAB 4
 import java.awt.*;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
-// I put the Drawer.java file into this file and modified it.
-
+// I  put the Drawer.java file into this file and modified it.
+//  Had trouble calling the file separately
 class MapDataDrawer extends JPanel {
 
   private static final long serialVersionUID = 1L;
